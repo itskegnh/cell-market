@@ -1,0 +1,6 @@
+disnake
+python-dotenv
+pillow
+pymongo
+matplotlib
+numpy
